@@ -1,4 +1,4 @@
-In addition to the below, by using this plugin or the backend that serves it, you agree not to use it for:
+In addition to the below, by using this plugin or the backend that serves it, you agree not to use it for the development of
 
   * Applications that are intended to or could easily facilitate cybercrime.
     
