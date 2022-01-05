@@ -1,3 +1,11 @@
+In addition to the below, by using this plugin or the backend that serves it, you agree not to use it for:
+
+  * Applications that are intended to or could easily facilitate cybercrime.
+    
+  * Applications aimed at generating code for any purpose involving an intent to harm, or that has a reasonable expectation of causing harm. This includes code which might be directly harmful (e.g. a virus) and code which enables harmful use cases (e.g. deepfake or spam generation or non-consensual surveillance).
+
+The usage of this plugin will be monitored to ensure that you are not breaking the above agreement. Anyone found to be breaking the above agreement will immediately be restricted from accessing this plugin and its backend.
+
 **Standard EULA**
 
 " **Developer**" means **Caelum Forder**.
